@@ -1,10 +1,10 @@
 # 天路云机场官网地址
 
-最新地址：[tianlu.cloud](https://tianlu.cloud/#/register?code=4gICPQ65)
+最新地址：[tianlu.shop](https://tianlu.shop/#/register?code=4gICPQ65)
 
 ## 天路云机场介绍
 
-天路云机场是一家小众低调翻墙机场，成立于2021年。支持SS, Trojan协议。
+天路云机场是一家小众低调翻墙机场，成立于2021年。支持Vless协议。
 
 全球尖端数据资源，覆盖亚洲、欧洲、美洲等全球超50个国家主要核心网络，我们精心挑选高质量的多个国家数据中心，通过高速网络进行连接，无论您身在何处，都可互联全球。
 
