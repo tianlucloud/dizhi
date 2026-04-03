@@ -1,6 +1,6 @@
 # 天路云机场官网地址
 
-最新地址：[tianluyun.cloud](https://tianluyun.cloud/#/register?code=4gICPQ65)
+最新地址：[tianluyun.cloud](https://tianluyun.cloud/)
 
 ## 天路云机场介绍
 
