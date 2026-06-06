@@ -2,11 +2,9 @@
 
 最新地址：
 
-[skyroadcloud.com](https://skyroadcloud.com/)
+[tianluyun.cc](https://tianluyun.cc/)
 
-[tianluyun.cloud](https://tianluyun.cloud/)
 
-[tianlu.shop](https://tianlu.shop/)
 
 ## 天路云机场介绍
 
